@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prins Kumar
 - 👀 I’m interested in Data Science
-- 🌱 I’m completed Data Science from Odin School
+- 🌱 I’m completed Data Science training from Odin School
 - 💞️ I’m looking to collaborate on machine learning /Eda Projects
 - 📫 How to reach me email- prins2516@gmail.com
 
